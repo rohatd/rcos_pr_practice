@@ -13,3 +13,5 @@ To do so:
 - Richie Young - YACS
 - Cameron Root - YACS
 - Ayushi Mishra - YACS
+
+Dhruv Rohatgi- Voice assistance
